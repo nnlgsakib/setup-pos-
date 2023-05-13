@@ -1,14 +1,33 @@
-install chain client :
----
-bash install.sh
----
+Welcome to MIND Blockchain
 
-generate validator addr :
 ---
- bash genkey.sh
- ---
- 
- start your node 
-------
- bash start.sh
----
+## Getting Started
+
+
+
+```
+git clone https://github.com/nnlgsakib/setup-pos
+cd setup-pos
+bash install.sh
+```
+
+## generate valodator addr 
+
+
+
+
+```bash genkey.sh```
+
+
+
+# start your node 
+
+```
+bash start.sh 
+```
+
+
+
+Copyright 2023 MIND chain 
+
+
